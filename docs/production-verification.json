@@ -1,0 +1,100 @@
+{
+  "title": "室友正在优化 · 第一集 · 双角色配音版",
+  "duration_seconds": 62.083333,
+  "size_bytes": 3643904,
+  "sha256": "9c17c0e42dd49cb070f62c5c92fd2f2f2e6ab0667cf7b084852e89651ca5f7c4",
+  "video": {
+    "codec_name": "h264",
+    "width": 1280,
+    "height": 720,
+    "r_frame_rate": "24/1",
+    "nb_frames": "1490"
+  },
+  "audio": {
+    "codec_name": "aac",
+    "sample_rate": "44100",
+    "channels": 2
+  },
+  "decode_check": "Entire output decoded by FFmpeg without errors",
+  "speech_checks": [
+    {
+      "line": "line-04",
+      "speaker": "阿程",
+      "rms_dbfs": -21.55,
+      "mouth_open_frames_50hz": 75
+    },
+    {
+      "line": "line-10",
+      "speaker": "积木",
+      "rms_dbfs": -21.39,
+      "mouth_open_frames_50hz": 109
+    },
+    {
+      "line": "line-15",
+      "speaker": "阿程",
+      "rms_dbfs": -22.86,
+      "mouth_open_frames_50hz": 141
+    },
+    {
+      "line": "line-20",
+      "speaker": "积木",
+      "rms_dbfs": -21.17,
+      "mouth_open_frames_50hz": 193
+    },
+    {
+      "line": "line-27",
+      "speaker": "阿程",
+      "rms_dbfs": -21.7,
+      "mouth_open_frames_50hz": 117
+    },
+    {
+      "line": "line-32",
+      "speaker": "积木",
+      "rms_dbfs": -19.15,
+      "mouth_open_frames_50hz": 88
+    },
+    {
+      "line": "line-37",
+      "speaker": "阿程",
+      "rms_dbfs": -20.3,
+      "mouth_open_frames_50hz": 117
+    },
+    {
+      "line": "line-50",
+      "speaker": "阿程",
+      "rms_dbfs": -22.97,
+      "mouth_open_frames_50hz": 110
+    },
+    {
+      "line": "line-63",
+      "speaker": "阿程",
+      "rms_dbfs": -23.17,
+      "mouth_open_frames_50hz": 72
+    },
+    {
+      "line": "line-68",
+      "speaker": "积木",
+      "rms_dbfs": -18.13,
+      "mouth_open_frames_50hz": 66
+    },
+    {
+      "line": "line-72",
+      "speaker": "阿程",
+      "rms_dbfs": -20.78,
+      "mouth_open_frames_50hz": 40
+    }
+  ],
+  "robot_lines_all_processed": true,
+  "all_subtitle_intervals_contain_corresponding_dialogue": true,
+  "visual_qa": "Nine representative scene frames inspected for character continuity, subtitle visibility, message readability and stop gesture.",
+  "limitations": [
+    "Programmatic waveform/level/decode checks do not replace subjective listening; final voice preferences remain adjustable.",
+    "Stylized limited 2D character animation, not fully hand-drawn frame animation."
+  ],
+  "no_new_tts_for_dsp": true,
+  "voice_generation": {
+    "total_tts_calls": 11,
+    "total_usage_characters": 257,
+    "reused_cached_takes": true
+  }
+}

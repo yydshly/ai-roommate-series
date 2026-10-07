@@ -1,0 +1,79 @@
+[
+  {
+    "line_id": "line-04",
+    "speaker": "阿程",
+    "start": 3.25,
+    "end": 5.548662131519274,
+    "source_audio": "line-04.mp3"
+  },
+  {
+    "line_id": "line-10",
+    "speaker": "积木",
+    "start": 6.848662131519275,
+    "end": 9.573945578231292,
+    "source_audio": "processed/line-10-robot.wav"
+  },
+  {
+    "line_id": "line-15",
+    "speaker": "阿程",
+    "start": 10.423945578231294,
+    "end": 15.086757369614514,
+    "source_audio": "line-15.mp3"
+  },
+  {
+    "line_id": "line-20",
+    "speaker": "积木",
+    "start": 15.986757369614514,
+    "end": 21.423922902494333,
+    "source_audio": "processed/line-20-robot.wav"
+  },
+  {
+    "line_id": "line-27",
+    "speaker": "阿程",
+    "start": 22.473922902494333,
+    "end": 25.946417233560094,
+    "source_audio": "line-27.mp3"
+  },
+  {
+    "line_id": "line-32",
+    "speaker": "积木",
+    "start": 27.346417233560093,
+    "end": 29.583514739229027,
+    "source_audio": "processed/line-32-robot.wav"
+  },
+  {
+    "line_id": "line-37",
+    "speaker": "阿程",
+    "start": 30.933514739229025,
+    "end": 33.504126984126984,
+    "source_audio": "line-37.mp3"
+  },
+  {
+    "line_id": "line-50",
+    "speaker": "阿程",
+    "start": 40.55412698412698,
+    "end": 43.93791383219954,
+    "source_audio": "line-50.mp3"
+  },
+  {
+    "line_id": "line-63",
+    "speaker": "阿程",
+    "start": 51.28791383219954,
+    "end": 53.756099773242624,
+    "source_audio": "line-63.mp3"
+  },
+  {
+    "line_id": "line-68",
+    "speaker": "积木",
+    "start": 54.606099773242626,
+    "end": 56.16253968253968,
+    "source_audio": "processed/line-68-robot.wav"
+  },
+  {
+    "line_id": "line-72",
+    "speaker": "阿程",
+    "start": 56.42253968253968,
+    "end": 57.432267573696144,
+    "source_audio": "line-72.mp3"
+  }
+]

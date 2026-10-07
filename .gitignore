@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+.openai/
+v2/site/
+v2/sound.wav
+v2/score-retimed.wav

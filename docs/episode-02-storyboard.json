@@ -1,0 +1,188 @@
+{
+  "title": "室友正在优化 第二集 大一点",
+  "status": "script_and_storyboard_draft_not_produced",
+  "target_duration_seconds": 78,
+  "voice_continuity": {
+    "阿程": "Keep approved male performance preset",
+    "积木": "Keep revised warm flat synthetic DSP treatment"
+  },
+  "shots": [
+    {
+      "shot": 1,
+      "start": 0,
+      "end": 4,
+      "camera": "全景开场",
+      "props": "手机、电脑、杯子和充电线",
+      "action": "延续首集早晨的客厅。阿程卷起袖口；积木把小手放在桌边。椅腿旁露出一截被压住的充电线，先不强调。",
+      "dialogue": [],
+      "sound": "轻微键盘声；片名短暂出现。",
+      "status": "draft_not_rendered"
+    },
+    {
+      "shot": 2,
+      "start": 4,
+      "end": 10,
+      "camera": "电脑消息与阿程中景",
+      "props": "客户消息卡",
+      "action": "消息出现：“按钮再大一点。”阿程只看一眼，伸手握住鼠标，带着这题很简单的笑。",
+      "dialogue": [
+        {
+          "speaker": "阿程",
+          "text": "好改。"
+        }
+      ],
+      "sound": "一声普通消息提示音，不渲染危机。",
+      "status": "draft_not_rendered"
+    },
+    {
+      "shot": 3,
+      "start": 10,
+      "end": 16,
+      "camera": "积木近景",
+      "props": "手机",
+      "action": "积木先看手机，再看阿程，手掌停在半空，确实是在等待回答。",
+      "dialogue": [
+        {
+          "speaker": "积木",
+          "text": "是字太小，还是不好点？"
+        }
+      ],
+      "sound": "电子音保持平直清晰；问号靠短停顿而非夸张上扬。",
+      "status": "draft_not_rendered"
+    },
+    {
+      "shot": 4,
+      "start": 16,
+      "end": 23,
+      "camera": "双人侧面切屏幕插入",
+      "props": "可伸缩按钮图形",
+      "action": "阿程摆摆手，连续拖动缩放柄。按钮从正常尺寸变到挤开内容，最后顶满电脑窗口。",
+      "dialogue": [
+        {
+          "speaker": "阿程",
+          "text": "还能是哪儿？就是这个嘛。"
+        }
+      ],
+      "sound": "三次递进的伸缩声，最后一次突然收住。",
+      "status": "draft_not_rendered"
+    },
+    {
+      "shot": 5,
+      "start": 23,
+      "end": 30,
+      "camera": "阿程反应近景与积木反打",
+      "props": "巨大按钮遮挡层",
+      "action": "大按钮挡住阿程下半张脸，只剩一双眼睛。积木缓慢眨眼，指向几乎消失的网页内容。",
+      "dialogue": [
+        {
+          "speaker": "积木",
+          "text": "嗯。网页好像被按钮吃了。"
+        }
+      ],
+      "sound": "留半秒无音乐空拍，让画面先完成笑点。",
+      "status": "draft_not_rendered"
+    },
+    {
+      "shot": 6,
+      "start": 30,
+      "end": 37,
+      "camera": "手机消息特写",
+      "props": "手机与手指",
+      "action": "客户补充：“手机上，我总点到旁边。”阿程拿起手机，拇指连续两次点偏；积木不说话，指向刚才的问题。",
+      "dialogue": [],
+      "sound": "两声轻而不同的落空反馈；不加责备或嘲笑音效。",
+      "status": "draft_not_rendered"
+    },
+    {
+      "shot": 7,
+      "start": 37,
+      "end": 44,
+      "camera": "阿程与手机中景",
+      "props": "手机",
+      "action": "阿程把电脑上巨大的按钮缩回原样，肩膀放松；这次抬头看积木，承认自己刚才猜快了。",
+      "dialogue": [
+        {
+          "speaker": "阿程",
+          "text": "哦……要解决的是不好点，不是看着不够大。"
+        }
+      ],
+      "sound": "前半句轻微停顿，后半句自然说完。",
+      "status": "draft_not_rendered"
+    },
+    {
+      "shot": 8,
+      "start": 44,
+      "end": 52,
+      "camera": "手机界面与积木手部特写",
+      "props": "可见按钮与半透明点击范围",
+      "action": "积木用两只小手拉开半透明的点击范围，按钮本身保持原尺寸。范围线只在演示时出现，不画成实际产品边框。",
+      "dialogue": [
+        {
+          "speaker": "积木",
+          "text": "给手指留点余地。"
+        }
+      ],
+      "sound": "一声柔和吸附音；底乐恢复。",
+      "status": "draft_not_rendered"
+    },
+    {
+      "shot": 9,
+      "start": 52,
+      "end": 58,
+      "camera": "双人测试全景",
+      "props": "手机与提交控件",
+      "action": "阿程用拇指在按钮边缘连点两次，都成功。他把手机放到积木能看见的位置，确认后点下提交。",
+      "dialogue": [
+        {
+          "speaker": "阿程",
+          "text": "这回对了。"
+        }
+      ],
+      "sound": "两次清晰但不过度兴奋的成功提示。",
+      "status": "draft_not_rendered"
+    },
+    {
+      "shot": 10,
+      "start": 58,
+      "end": 65,
+      "camera": "消息插入与阿程近景",
+      "props": "验收消息与便签",
+      "action": "客户消息：“可以了，谢谢！”阿程写下“先问一句”，贴在电脑边，与首集画里的“一件小事”形成呼应。",
+      "dialogue": [
+        {
+          "speaker": "阿程",
+          "text": "以后先问一句，再动手。"
+        }
+      ],
+      "sound": "留出能看清验收消息的时间；不要立刻切走。",
+      "status": "draft_not_rendered"
+    },
+    {
+      "shot": 11,
+      "start": 65,
+      "end": 72,
+      "camera": "积木近景转向低机位",
+      "props": "椅腿与充电线",
+      "action": "积木举手，略停。镜头顺着它的目光下移，揭示充电线绕在阿程椅子腿上。不是技术故障，只是生活里的小阻碍。",
+      "dialogue": [
+        {
+          "speaker": "积木",
+          "text": "那……能先帮我解开这个吗？"
+        }
+      ],
+      "sound": "小手举起时只有轻微伺服声，台词不卖惨。",
+      "status": "draft_not_rendered"
+    },
+    {
+      "shot": 12,
+      "start": 72,
+      "end": 78,
+      "camera": "低机位回双人全景",
+      "props": "椅子与第一单便签",
+      "action": "阿程抬起椅子，积木抽出线，终于向前挪一步。两人相视；阿程把“第一单完成”的小纸条留在桌边。最后一秒出现下集名“别收拾太干净”。",
+      "dialogue": [],
+      "sound": "椅脚落地和电源接通的轻响，随后音乐收尾。",
+      "status": "draft_not_rendered"
+    }
+  ]
+}

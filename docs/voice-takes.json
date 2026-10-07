@@ -1,0 +1,101 @@
+[
+  {
+    "lineId": "line-04",
+    "speaker": "阿程",
+    "voiceId": "male-qn-qingse",
+    "model": "speech-2.8-hd",
+    "audioLengthMs": 2484,
+    "audioBytes": 41460,
+    "format": "mp3"
+  },
+  {
+    "lineId": "line-10",
+    "speaker": "积木",
+    "voiceId": "Chinese (Mandarin)_Crisp_Girl",
+    "model": "speech-2.8-hd",
+    "audioLengthMs": 2880,
+    "audioBytes": 47796,
+    "format": "mp3"
+  },
+  {
+    "lineId": "line-15",
+    "speaker": "阿程",
+    "voiceId": "male-qn-qingse",
+    "model": "speech-2.8-hd",
+    "audioLengthMs": 4896,
+    "audioBytes": 80052,
+    "format": "mp3"
+  },
+  {
+    "lineId": "line-20",
+    "speaker": "积木",
+    "voiceId": "Chinese (Mandarin)_Crisp_Girl",
+    "model": "speech-2.8-hd",
+    "audioLengthMs": 5544,
+    "audioBytes": 90420,
+    "format": "mp3"
+  },
+  {
+    "lineId": "line-27",
+    "speaker": "阿程",
+    "voiceId": "male-qn-qingse",
+    "model": "speech-2.8-hd",
+    "audioLengthMs": 3744,
+    "audioBytes": 61620,
+    "format": "mp3"
+  },
+  {
+    "lineId": "line-32",
+    "speaker": "积木",
+    "voiceId": "Chinese (Mandarin)_Crisp_Girl",
+    "model": "speech-2.8-hd",
+    "audioLengthMs": 2520,
+    "audioBytes": 42036,
+    "format": "mp3"
+  },
+  {
+    "lineId": "line-37",
+    "speaker": "阿程",
+    "voiceId": "male-qn-qingse",
+    "model": "speech-2.8-hd",
+    "audioLengthMs": 2952,
+    "audioBytes": 48948,
+    "format": "mp3"
+  },
+  {
+    "lineId": "line-50",
+    "speaker": "阿程",
+    "voiceId": "male-qn-qingse",
+    "model": "speech-2.8-hd",
+    "audioLengthMs": 3672,
+    "audioBytes": 60468,
+    "format": "mp3"
+  },
+  {
+    "lineId": "line-63",
+    "speaker": "阿程",
+    "voiceId": "male-qn-qingse",
+    "model": "speech-2.8-hd",
+    "audioLengthMs": 2700,
+    "audioBytes": 44916,
+    "format": "mp3"
+  },
+  {
+    "lineId": "line-68",
+    "speaker": "积木",
+    "voiceId": "Chinese (Mandarin)_Crisp_Girl",
+    "model": "speech-2.8-hd",
+    "audioLengthMs": 1800,
+    "audioBytes": 30516,
+    "format": "mp3"
+  },
+  {
+    "lineId": "line-72",
+    "speaker": "阿程",
+    "voiceId": "male-qn-qingse",
+    "model": "speech-2.8-hd",
+    "audioLengthMs": 1296,
+    "audioBytes": 22452,
+    "format": "mp3"
+  }
+]
