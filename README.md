@@ -2,7 +2,7 @@
 
 原创二维轻喜剧系列。程序员阿程与他创造的 AI 室友积木，在同一间公寓里做小项目、过日子。
 
-[▶ 直接观看第1集 · 完整62秒](https://yydshly.github.io/selected-works/#shorts)
+[▶ 直接观看第1集 · 完整62秒](https://yydshly.github.io/selected-works/#roommate)
 
 ## 当前作品
 - 第1集《先别承诺》：已完成双角色配音试播，62.083秒，1280×720，24fps。播放 `films/episode-01-voiced.mp4`
