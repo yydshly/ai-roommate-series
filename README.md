@@ -36,3 +36,7 @@ python v2/source/render.py 62.08226757369614 pilot-voiced
 
 ## 质量与范围
 这是风格化二维角色动画试播。人物有表情、肢体动作，嘴形由语音强弱驱动。整片媒体解码、11段对白时序与关键画面检查记录见 `docs/production-verification.json`。数值检查不能代替主观听感与表演评价。
+
+## Episode 2 development study
+
+[Production sources and 24-second action study](episode-02/README.md) are available. This is an action-only development sample and a 12-shot rendering/mixing pipeline, not a completed voiced episode. No new dialogue generation was performed; episode 1 remains unchanged.

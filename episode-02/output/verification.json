@@ -1,0 +1,31 @@
+{
+  "episode": 2,
+  "edition": "action_timing_sample_not_final_episode",
+  "duration_seconds": 24,
+  "resolution": [
+    1280,
+    720
+  ],
+  "frames": 576,
+  "fps": 24,
+  "spoken_dialogue": false,
+  "audio": "Original generated music and sound effects; no new TTS calls",
+  "animated_actions": [
+    "Three-stage button resize with overshoot",
+    "Page content displacement",
+    "Human eye reaction behind giant button",
+    "Articulated thumb misses then succeeds",
+    "Visible hit-area expansion with stable button size"
+  ],
+  "decode": "FFmpeg full stream decode succeeded",
+  "shots_reviewed": [
+    1,
+    4.7,
+    8.7,
+    13.35,
+    16.7,
+    18.7,
+    22.5
+  ],
+  "sha256": "d932980b4d1dcdbb02d2e0f1d6897f822b8093c2e1d1e431206c947235a2e513"
+}

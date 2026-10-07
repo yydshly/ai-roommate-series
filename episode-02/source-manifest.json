@@ -1,0 +1,10 @@
+{
+  "README.md": "7cf6f06face264c7599f66881ee5018c9998636a0b3f9cba4f40418c5b0c946b",
+  "source/mix_dialogue.py": "3944347b823306fc63d79d594ac3308458361485b5c2af8c74c19f6d45ea7484",
+  "source/render_action_sample.py": "4babb6e0198aff40d4dd2f14946aa7aa829d7ca78348980331c1749e5144962a",
+  "source/render_episode.py": "113cb032bdb604a1d54258120f36bec0e9d18108f1f7014e580f46e338fb924c",
+  "source/robot_dsp.py": "c2d978b925fba5bc030c5f029c3d3b12024a9b60c37ad099b840b68d6f32d840",
+  "source/storyboard.json": "c909f184cba1799c9147cc07523feba96172ccadcd1739d7c0f32a93710be1a3",
+  "output/episode-02-action-sample.mp4": "d932980b4d1dcdbb02d2e0f1d6897f822b8093c2e1d1e431206c947235a2e513",
+  "output/verification.json": "31dbdfb0254f03ce9bf682ca884f5ddcb7a1cdebd373a791513bdd08d4a59af5"
+}
